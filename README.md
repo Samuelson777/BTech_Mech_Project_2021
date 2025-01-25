@@ -74,7 +74,7 @@ The total estimated cost for this project is **Rs 6000**, which includes materia
 ## Conclusion
 The quick lifting screw jack designed in this project offers a practical solution for lifting heavy loads with minimal effort. Its electric operation enhances usability, making it a valuable tool for both automotive and industrial applications.
 
-![Screw Jack Image](![image](https://github.com/user-attachments/assets/ea097226-480b-4220-9347-f893f01ab9e5)
+![Screw Jack Image](https://github.com/user-attachments/assets/ea097226-480b-4220-9347-f893f01ab9e5)
 )
 
 ## References

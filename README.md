@@ -84,3 +84,6 @@ The quick lifting screw jack designed in this project offers a practical solutio
 4. Various research papers and articles on screw jack designs and applications.
 
 ---
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/BTech_Mech_Project_2021/blob/main/LICENSE) file for details.
